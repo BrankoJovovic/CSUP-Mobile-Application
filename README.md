@@ -11,7 +11,7 @@ The application would be a great investment for the dental office, it can meet a
 
 ### Logical View
 
-* 
+* https://github.com/BrankoJovovic/CSUP-Mobile-Application/blob/master/DentalOffice_LogicalView.png
 
 ### Technology Stack
 
